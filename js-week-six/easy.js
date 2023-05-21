@@ -15,6 +15,7 @@ function findAverage(arr){
     
      let average = sum / count
      console.log(`the average is ${average}`)
+     return average
 
 }
 
